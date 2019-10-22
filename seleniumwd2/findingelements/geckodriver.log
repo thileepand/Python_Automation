@@ -1,0 +1,534 @@
+1484928798770	geckodriver	INFO	Listening on 127.0.0.1:47832
+1484928799772	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UEWZm98XDJwZ
+1484928799774	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484928799776	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40094
+
+(firefox:23493): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23493): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23493): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23493): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1484928800522	Marionette	INFO	Listening on port 40094
+
+(/usr/lib/firefox/plugin-container:23552): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23552): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23552): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23552): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1484928832257	geckodriver	INFO	Listening on 127.0.0.1:41668
+1484928833259	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OVJcSMg4XjHs
+1484928833261	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484928833264	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39292
+
+(firefox:23613): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23613): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23613): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23613): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1484928834054	Marionette	INFO	Listening on port 39292
+
+(/usr/lib/firefox/plugin-container:23676): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23676): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23676): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23676): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1484929907591	geckodriver	INFO	Listening on 127.0.0.1:35806
+1484929908593	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1tzabAIIGf3U
+1484929908595	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484929908599	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42600
+
+(firefox:24009): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24009): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24009): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24009): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1484929909422	Marionette	INFO	Listening on port 42600
+
+(/usr/lib/firefox/plugin-container:24077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://s.yimg.com/zz/combo?os/mit/td/stencil-3.1.0/stencil-bquery/stencil-bquery-min.js&os/mit/td/ape-applet-0.0.210/ape-applet-lang-strings_en-in/ape-applet-lang-strings_en-in-min.js&os/mit/td/stencil-3.1.0/stencil-imageloader/stencil-imageloader-min.js&os/mit/td/dust-helpers-0.0.146/intl-messageformat/intl-messageformat-min.js&os/mit/td/dust-helpers-0.0.146/dust-helper-intl/dust-helper-intl-min.js&os/mit/td/dust-helpers-0.0.146/intl-helper/intl-helper-min.js&os/mit/td/ape-af-0.0.330/ape-af-lang-strings_en-in/ape-af-lang-strings_en-in-min.js&os/mit/td/ape-applet-0.0.210/ape-applet-templates-reload/ape-applet-templates-reload-min.js&os/mit/td/ape-af-0.0.330/af-content/af-content-min.js&yui:3.12.0/router/router-min.js&yui:3.12.0/pjax-base/pjax-base-min.js&yui:3.12.0/app-base/app-base-min.js&yui:3.12.0/pjax-content/pjax-content-min.js&yui:3.12.0/app-content/app-content-min.js&yui:3.12.0/app-transitions/app-transitions-min.js&yui:3.12.0/app-transitions-native/app-transitions-native-min.js&yui:3.12.0/model-sync-rest/model-sync-rest-min.js&yui:3.12.0/view-node-map/view-node-map-min.js&os/mit/td/ape-af-0.0.330/media-agof-tracking/media-agof-tracking-min.js&os/mit/td/ape-af-0.0.330/af-eu-tracking/af-eu-tracking-min.js&/nn/lib/metro/g/myy/myy_0.0.43.js&/nn/lib/metro/g/myy/abu_event_0.0.3.js&/nn/lib/metro/g/myy/abu_video_0.0.9.js&/nn/lib/metro/g/myy/abu_video_manager_0.0.23.js&/nn/lib/metro/g/myy/abu_0.0.18.js&/nn/lib/metro/g/myyheader/uh_init_0.0.14.js&os/mit/td/td-applet-today-0.1.662/td-applet-today-model/td-applet-today-model-min.js&os/mit/td/td-applet-today-0.1.662/td-applet-today-appletmodel/td-applet-today-appletmodel-min.js&os/mit/td/td-applet-today-0.1.662/td-applet-today-mainview/td-applet-today-mainview-min.js&os/mit/td/td-applet-today-0.1.662/td-applet-today-templates-payoffs-video/td-applet-today-templates-payoffs-video-min.js, line 101: TypeError: this.footerCarousel.StencilCarousel is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1484932027405	geckodriver	INFO	Listening on 127.0.0.1:53107
+1484932028406	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FdNuZIcqezBJ
+1484932028408	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484932028412	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38937
+
+(firefox:24559): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24559): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24559): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24559): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1484932029235	Marionette	INFO	Listening on port 38937
+
+(/usr/lib/firefox/plugin-container:24621): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24621): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24621): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24621): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1486386723392	geckodriver	INFO	Listening on 127.0.0.1:40195
+1486386724353	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JDnC4pZGkaDz
+1486386724354	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486386724363	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34279
+
+(firefox:4364): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4364): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4364): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4364): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1486386727032	Marionette	INFO	Listening on port 34279
+
+(/usr/lib/firefox/plugin-container:4424): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4424): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4424): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4424): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487239408433	geckodriver	INFO	Listening on 127.0.0.1:39865
+1487239409389	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SyShBbHlRY9r
+1487239409392	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487239409395	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33797
+
+(firefox:6271): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6271): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6271): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6271): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487239410275	Marionette	INFO	Listening on port 33797
+
+(/usr/lib/firefox/plugin-container:6331): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6331): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6331): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6331): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487240150589	geckodriver	INFO	Listening on 127.0.0.1:39769
+1487240151594	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gxiHakViy7sB
+1487240151596	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487240151600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38631
+
+(firefox:6445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487240152459	Marionette	INFO	Listening on port 38631
+
+(/usr/lib/firefox/plugin-container:6507): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6507): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6507): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6507): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487240169542	geckodriver	INFO	Listening on 127.0.0.1:36811
+1487240170544	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tHtg0VJ2pN8i
+1487240170546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487240170549	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41508
+
+(firefox:6573): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6573): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6573): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6573): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487240171349	Marionette	INFO	Listening on port 41508
+
+(/usr/lib/firefox/plugin-container:6635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487240398397	geckodriver	INFO	Listening on 127.0.0.1:35205
+1487240399398	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BDCbUU3dSGHr
+1487240399401	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487240399404	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42739
+
+(firefox:6728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487240400226	Marionette	INFO	Listening on port 42739
+
+(/usr/lib/firefox/plugin-container:6789): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6789): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6789): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6789): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 6789] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x500001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=41.5022) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00E9,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1487240446915	geckodriver	INFO	Listening on 127.0.0.1:46097
+1487240447917	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ixrj55IOVeVT
+1487240447919	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487240447923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35984
+
+(firefox:6853): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6853): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6853): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6853): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487240448713	Marionette	INFO	Listening on port 35984
+
+(/usr/lib/firefox/plugin-container:6914): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6914): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487241032875	geckodriver	INFO	Listening on 127.0.0.1:58820
+1487241033877	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6rI7sefqQqWn
+1487241033878	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487241033882	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35906
+
+(firefox:7018): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7018): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7018): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7018): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487241034741	Marionette	INFO	Listening on port 35906
+
+(/usr/lib/firefox/plugin-container:7082): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7082): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7082): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7082): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487241122411	geckodriver	INFO	Listening on 127.0.0.1:60158
+1487241123413	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SfYmhVb2t5N1
+1487241123415	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487241123419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37426
+
+(firefox:7166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487241124290	Marionette	INFO	Listening on port 37426
+
+(/usr/lib/firefox/plugin-container:7228): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7228): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7228): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7228): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487241511002	geckodriver	INFO	Listening on 127.0.0.1:40217
+1487241512002	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TaMlBm1ptlYT
+1487241512004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487241512008	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32791
+
+(firefox:7438): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7438): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7438): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7438): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487241512823	Marionette	INFO	Listening on port 32791
+
+(/usr/lib/firefox/plugin-container:7499): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7499): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7499): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7499): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487671551559	geckodriver	INFO	Listening on 127.0.0.1:57718
+1487671552561	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NEumx2H5e1bR
+1487671552563	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487671552567	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45456
+
+(firefox:14153): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14153): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14153): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14153): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487671553298	Marionette	INFO	Listening on port 45456
+
+(/usr/lib/firefox/plugin-container:14215): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14215): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14215): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14215): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487671869916	geckodriver	INFO	Listening on 127.0.0.1:54822
+1487671870918	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zx2Ao9Ww1GuU
+1487671870920	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487671870923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42587
+
+(firefox:14301): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14301): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487671871612	Marionette	INFO	Listening on port 42587
+
+(/usr/lib/firefox/plugin-container:14362): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14362): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14362): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14362): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487671977648	geckodriver	INFO	Listening on 127.0.0.1:52649
+1487671978650	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fkyrUlxQZHtr
+1487671978652	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487671978655	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39011
+
+(firefox:14455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1487671979476	Marionette	INFO	Listening on port 39011
+
+(/usr/lib/firefox/plugin-container:14514): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14514): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14514): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14514): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************

@@ -1,0 +1,4 @@
+02/03/2017 09:11:48 PM- method2- INFO: info message:
+02/03/2017 09:11:48 PM- method2- WARNING: warning message:
+02/03/2017 09:11:48 PM- method2- ERROR: error message:
+02/03/2017 09:11:48 PM- method2- CRITICAL: critical message:

@@ -1,0 +1,32 @@
+1493364863057	geckodriver	INFO	Listening on 127.0.0.1:45500
+1493364864060	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Od5JPnWBnodX
+1493364864061	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493364864063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38755
+
+(firefox:26373): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26373): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26373): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26373): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493364864874	Marionette	INFO	Listening on port 38755
+
+(/usr/lib/firefox/plugin-container:26439): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26439): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26439): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26439): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493364874665	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:26373): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26373): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed

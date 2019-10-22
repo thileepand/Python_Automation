@@ -1,0 +1,2321 @@
+1489475055231	geckodriver	INFO	Listening on 127.0.0.1:33523
+1489475056237	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.J3hZL49RvdY8
+1489475056239	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489475056243	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41912
+
+(firefox:12643): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12643): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12643): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12643): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489475057069	Marionette	INFO	Listening on port 41912
+
+(/usr/lib/firefox/plugin-container:12711): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12711): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12711): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12711): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489475060026	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9145&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489475112716	geckodriver	INFO	Listening on 127.0.0.1:50701
+1489475112722	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oCBIPokwQmbf
+1489475112723	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489475112729	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44505
+
+(firefox:12795): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12795): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12795): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12795): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489475113584	Marionette	INFO	Listening on port 44505
+
+(/usr/lib/firefox/plugin-container:12866): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12866): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12866): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12866): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489475116545	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7098&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489475454691	geckodriver	INFO	Listening on 127.0.0.1:60255
+1489475455694	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MSinTxzOgcjI
+1489475455696	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489475455705	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37264
+
+(firefox:13005): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13005): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13005): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13005): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489475456554	Marionette	INFO	Listening on port 37264
+
+(/usr/lib/firefox/plugin-container:13073): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13073): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13073): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13073): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489475459618	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default177&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489476012792	geckodriver	INFO	Listening on 127.0.0.1:45277
+1489476013795	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4iCTxFso6b2D
+1489476013798	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489476013807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39950
+
+(firefox:13247): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13247): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13247): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13247): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489476014691	Marionette	INFO	Listening on port 39950
+
+(/usr/lib/firefox/plugin-container:13315): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13315): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13315): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13315): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489476017856	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2467&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:12643): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12643): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13247): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13247): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13005): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13005): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12795): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12795): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477122268	geckodriver	INFO	Listening on 127.0.0.1:40730
+1489477123274	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qRK2ybUwWUzW
+1489477123276	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489477123280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35110
+
+(firefox:13544): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13544): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13544): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13544): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477124144	Marionette	INFO	Listening on port 35110
+
+(/usr/lib/firefox/plugin-container:13605): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13605): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13605): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13605): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477127352	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2487&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489477320024	geckodriver	INFO	Listening on 127.0.0.1:42863
+1489477321029	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RRLeWeGed7LI
+1489477321030	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489477321032	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40094
+
+(firefox:13745): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13745): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13745): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13745): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477321904	Marionette	INFO	Listening on port 40094
+
+(/usr/lib/firefox/plugin-container:13812): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13812): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13812): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13812): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477325112	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4135&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489477633489	geckodriver	INFO	Listening on 127.0.0.1:49948
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489477634495	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9m22Hilg2xc8
+1489477634496	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489477634500	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44555
+
+(firefox:13989): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13989): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13989): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13989): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477635357	Marionette	INFO	Listening on port 44555
+
+(/usr/lib/firefox/plugin-container:14055): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14055): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14055): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14055): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477638659	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:440:3
+sendError@chrome://marionette/content/listener.js:474:3
+dispatch/</<@chrome://marionette/content/listener.js:202:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:935:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+
+(firefox:13544): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13544): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13745): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13745): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477701062	geckodriver	INFO	Listening on 127.0.0.1:44462
+1489477702067	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Syq1fPQkjozw
+1489477702067	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489477702069	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33150
+
+(firefox:14145): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14145): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14145): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14145): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477702888	Marionette	INFO	Listening on port 33150
+
+(/usr/lib/firefox/plugin-container:14214): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14214): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14214): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14214): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489477706062	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default174&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489483941858	geckodriver	INFO	Listening on 127.0.0.1:57045
+1489483942850	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QzNQ29lofAHg
+1489483942852	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489483942859	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41447
+
+(firefox:15588): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15588): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15588): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15588): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489483943739	Marionette	INFO	Listening on port 41447
+
+(/usr/lib/firefox/plugin-container:15652): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15652): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15652): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15652): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489483946871	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 15652] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 15652] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 15652] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 15652] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+(firefox:14145): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14145): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489484100247	geckodriver	INFO	Listening on 127.0.0.1:39624
+1489484101253	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bLusTRtLOSNm
+1489484101255	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489484101259	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35665
+
+(firefox:15760): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15760): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15760): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15760): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489484102105	Marionette	INFO	Listening on port 35665
+
+(/usr/lib/firefox/plugin-container:15823): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15823): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15823): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15823): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489484105211	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7577&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489484184577	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:15760): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15760): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485714344	geckodriver	INFO	Listening on 127.0.0.1:41991
+1489485715351	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MOcOT8K4Gpd3
+1489485715353	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489485715358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37271
+
+(firefox:16278): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16278): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16278): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16278): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485716231	Marionette	INFO	Listening on port 37271
+
+(/usr/lib/firefox/plugin-container:16341): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16341): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16341): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16341): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485719326	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7485&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16341] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=39.931) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1489485893230	geckodriver	INFO	Listening on 127.0.0.1:39761
+1489485894235	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.S1L9yWzWqxJR
+1489485894236	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489485894238	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44519
+
+(firefox:16447): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16447): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16447): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16447): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485895106	Marionette	INFO	Listening on port 44519
+
+(/usr/lib/firefox/plugin-container:16513): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16513): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16513): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16513): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485898437	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489485977666	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2975&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:16447): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16447): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490211029	geckodriver	INFO	Listening on 127.0.0.1:44430
+1489490212031	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u3074Jq5p8aH
+1489490212033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490212037	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34969
+
+(firefox:18098): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18098): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18098): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18098): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490212887	Marionette	INFO	Listening on port 34969
+
+(/usr/lib/firefox/plugin-container:18162): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18162): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18162): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18162): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490215951	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:18098): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18098): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490283107	geckodriver	INFO	Listening on 127.0.0.1:53096
+1489490284108	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BQl5dsn4csol
+1489490284109	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490284111	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45052
+
+(firefox:18246): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18246): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18246): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18246): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490284952	Marionette	INFO	Listening on port 45052
+
+(/usr/lib/firefox/plugin-container:18313): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18313): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18313): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18313): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490288028	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489490524902	geckodriver	INFO	Listening on 127.0.0.1:37089
+1489490525903	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4BvHqiSuwYe4
+1489490525905	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490525909	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32889
+
+(firefox:18405): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18405): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18405): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18405): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490526794	Marionette	INFO	Listening on port 32889
+
+(/usr/lib/firefox/plugin-container:18473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18473): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18473): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490529936	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489490687305	geckodriver	INFO	Listening on 127.0.0.1:58025
+1489490688307	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a1lgCHhAJr2j
+1489490688309	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490688313	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32770
+
+(firefox:18578): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18578): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18578): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18578): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490689166	Marionette	INFO	Listening on port 32770
+
+(/usr/lib/firefox/plugin-container:18642): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18642): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18642): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18642): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490692115	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489490769318	geckodriver	INFO	Listening on 127.0.0.1:46562
+1489490770320	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wZr0BVsOfxqW
+1489490770322	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490770330	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44173
+
+(firefox:18728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490771216	Marionette	INFO	Listening on port 44173
+
+(/usr/lib/firefox/plugin-container:18791): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18791): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18791): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18791): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490774666	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 18791] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 18791] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 18791] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+(firefox:18578): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18578): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18405): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18405): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18246): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18246): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490814633	geckodriver	INFO	Listening on 127.0.0.1:47852
+1489490815635	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.K4r32uybI5HQ
+1489490815637	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490815641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37392
+
+(firefox:18875): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18875): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18875): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18875): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490816543	Marionette	INFO	Listening on port 37392
+
+(/usr/lib/firefox/plugin-container:18940): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18940): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18940): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18940): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490819553	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4267&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:440:3
+sendError@chrome://marionette/content/listener.js:474:3
+dispatch/</<@chrome://marionette/content/listener.js:202:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:935:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=30.6842) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1489490889221	geckodriver	INFO	Listening on 127.0.0.1:56170
+1489490890224	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yv5bx8VhUvFN
+1489490890227	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490890230	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42966
+
+(firefox:19014): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19014): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19014): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19014): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490891091	Marionette	INFO	Listening on port 42966
+
+(/usr/lib/firefox/plugin-container:19079): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19079): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19079): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19079): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490894463	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489490986264	geckodriver	INFO	Listening on 127.0.0.1:35644
+1489490987266	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.acs6NG1LagTF
+1489490987268	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489490987272	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35474
+
+(firefox:19166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490988240	Marionette	INFO	Listening on port 35474
+
+(/usr/lib/firefox/plugin-container:19231): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19231): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19231): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19231): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489490991549	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:19166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19014): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19014): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489491349840	geckodriver	INFO	Listening on 127.0.0.1:56259
+1489491350842	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.L4h08J16IaXM
+1489491350844	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489491350847	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44447
+
+(firefox:19378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489491351671	Marionette	INFO	Listening on port 44447
+
+(/usr/lib/firefox/plugin-container:19446): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19446): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19446): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19446): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489491354852	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:19378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495433365	geckodriver	INFO	Listening on 127.0.0.1:51439
+1489495434369	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Iqm4pMpzRMVX
+1489495434370	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489495434372	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44163
+
+(firefox:20601): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20601): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20601): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20601): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495435235	Marionette	INFO	Listening on port 44163
+
+(/usr/lib/firefox/plugin-container:20669): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20669): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20669): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20669): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495438618	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489495611713	geckodriver	INFO	Listening on 127.0.0.1:44074
+1489495612716	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kSp8js7v6TkN
+1489495612718	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489495612722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44744
+
+(firefox:20930): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20930): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20930): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20930): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495613608	Marionette	INFO	Listening on port 44744
+
+(/usr/lib/firefox/plugin-container:20996): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20996): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20996): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20996): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495617027	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489495783885	geckodriver	INFO	Listening on 127.0.0.1:42611
+1489495784890	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FAieydDnaPmp
+1489495784892	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489495784899	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44161
+
+(firefox:21108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495785728	Marionette	INFO	Listening on port 44161
+
+(/usr/lib/firefox/plugin-container:21179): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21179): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21179): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21179): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495788894	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5171&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489495861672	geckodriver	INFO	Listening on 127.0.0.1:53865
+1489495862673	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.78e0GlmpWCcY
+1489495862674	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489495862678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37697
+
+(firefox:21267): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21267): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21267): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21267): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495863554	Marionette	INFO	Listening on port 37697
+
+(/usr/lib/firefox/plugin-container:21333): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21333): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21333): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21333): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489495866652	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1005&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:21108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21267): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21267): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20930): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20930): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20601): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20601): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496476203	geckodriver	INFO	Listening on 127.0.0.1:39362
+1489496477205	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YVTMtLixVlj9
+1489496477208	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489496477212	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37454
+
+(firefox:21735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496478082	Marionette	INFO	Listening on port 37454
+
+(/usr/lib/firefox/plugin-container:21802): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21802): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496481272	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7609&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489496902417	geckodriver	INFO	Listening on 127.0.0.1:53209
+1489496903418	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7ilCEQABKf6E
+1489496903421	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489496903426	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36417
+
+(firefox:21956): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21956): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21956): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21956): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496904283	Marionette	INFO	Listening on port 36417
+
+(/usr/lib/firefox/plugin-container:22022): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22022): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22022): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22022): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496907307	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 22022] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 22022] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+(firefox:21735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496930762	geckodriver	INFO	Listening on 127.0.0.1:53043
+1489496931763	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fVhY910bgbl3
+1489496931765	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489496931770	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34684
+
+(firefox:22104): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22104): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22104): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22104): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496932611	Marionette	INFO	Listening on port 34684
+
+(/usr/lib/firefox/plugin-container:22169): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22169): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22169): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22169): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496935807	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489496985239	geckodriver	INFO	Listening on 127.0.0.1:51775
+1489496986239	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LzmXgiDsMvRR
+1489496986240	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489496986242	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39834
+
+(firefox:22245): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22245): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496987133	Marionette	INFO	Listening on port 39834
+
+(/usr/lib/firefox/plugin-container:22309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489496990245	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2025&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:22245): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22104): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22104): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497061400	geckodriver	INFO	Listening on 127.0.0.1:57936
+1489497062401	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SDjXFkjDxgAX
+1489497062404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497062409	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39508
+
+(firefox:22412): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22412): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22412): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22412): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497063237	Marionette	INFO	Listening on port 39508
+
+(/usr/lib/firefox/plugin-container:22476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497066203	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4198&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:22412): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22412): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497209835	geckodriver	INFO	Listening on 127.0.0.1:48593
+1489497210836	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kogw9IueZA5B
+1489497210838	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497210842	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35358
+
+(firefox:22713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497211751	Marionette	INFO	Listening on port 35358
+
+(/usr/lib/firefox/plugin-container:22780): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22780): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22780): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22780): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497214847	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6370&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7649&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:22713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497312737	geckodriver	INFO	Listening on 127.0.0.1:37613
+1489497313739	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.g2flVd9TB8Tm
+1489497313741	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497313743	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45477
+
+(firefox:22879): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22879): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22879): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22879): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497314613	Marionette	INFO	Listening on port 45477
+
+(/usr/lib/firefox/plugin-container:22946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22946): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22946): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497317674	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7403&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:22879): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22879): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497408142	geckodriver	INFO	Listening on 127.0.0.1:53399
+1489497409145	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GufdAJiU3ZaQ
+1489497409147	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497409151	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35456
+
+(firefox:23203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497410011	Marionette	INFO	Listening on port 35456
+
+(/usr/lib/firefox/plugin-container:23267): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23267): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23267): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23267): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497413148	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2552&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default861&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:23203): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23203): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497493436	geckodriver	INFO	Listening on 127.0.0.1:41833
+1489497494438	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jPuzf5F61YSZ
+1489497494440	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497494444	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41426
+
+(firefox:23356): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23356): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23356): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23356): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497495330	Marionette	INFO	Listening on port 41426
+
+(/usr/lib/firefox/plugin-container:23421): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23421): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23421): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23421): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497498444	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2229&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:23356): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23356): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497541717	geckodriver	INFO	Listening on 127.0.0.1:45147
+1489497542719	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.USCmtdDibRoT
+1489497542721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497542725	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32987
+
+(firefox:23501): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23501): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23501): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23501): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497543614	Marionette	INFO	Listening on port 32987
+
+(/usr/lib/firefox/plugin-container:23570): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23570): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23570): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23570): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497546670	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:23501): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23501): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497611676	geckodriver	INFO	Listening on 127.0.0.1:37203
+1489497612678	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.us4VqYyz1lmA
+1489497612681	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497612689	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37237
+
+(firefox:23655): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23655): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23655): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23655): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497613551	Marionette	INFO	Listening on port 37237
+
+(/usr/lib/firefox/plugin-container:23722): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23722): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23722): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23722): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497616584	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3746&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4281&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:23655): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23655): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497694881	geckodriver	INFO	Listening on 127.0.0.1:53739
+1489497695884	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hO5Dn4PD3JNa
+1489497695886	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489497695890	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38883
+
+(firefox:23814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497696796	Marionette	INFO	Listening on port 38883
+
+(/usr/lib/firefox/plugin-container:23881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489497700102	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1676&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4429&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489499331024	geckodriver	INFO	Listening on 127.0.0.1:45911
+1489499332027	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CeD1slsTNNFr
+1489499332028	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489499332029	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43387
+
+(firefox:24384): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24384): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24384): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24384): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489499332871	Marionette	INFO	Listening on port 43387
+
+(/usr/lib/firefox/plugin-container:24448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489499336322	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4837&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1644&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:23814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24384): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24384): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489499434111	geckodriver	INFO	Listening on 127.0.0.1:60365
+1489499435113	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.leecvhEB3qpV
+1489499435115	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489499435120	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45410
+
+(firefox:24549): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24549): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24549): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24549): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489499436014	Marionette	INFO	Listening on port 45410
+
+(/usr/lib/firefox/plugin-container:24616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489499439539	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default464&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:24549): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24549): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489558799140	geckodriver	INFO	Listening on 127.0.0.1:60881
+1489558800141	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k5tcVFQ1LRNC
+1489558800144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489558800151	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46052
+
+(firefox:32573): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32573): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32573): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32573): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489558800989	Marionette	INFO	Listening on port 46052
+
+(/usr/lib/firefox/plugin-container:32639): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32639): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32639): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32639): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489558803897	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7506&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9443&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:32573): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32573): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489560947347	geckodriver	INFO	Listening on 127.0.0.1:42360
+1489560948350	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yVSgnNJ6Iq0H
+1489560948352	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489560948357	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35167
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489560949238	Marionette	INFO	Listening on port 35167
+
+(/usr/lib/firefox/plugin-container:886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489560952472	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:810): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489563984705	geckodriver	INFO	Listening on 127.0.0.1:52915
+1489563985708	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vuYnyDN9FH7a
+1489563985710	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489563985713	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34968
+
+(firefox:2865): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2865): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2865): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2865): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489563986505	Marionette	INFO	Listening on port 34968
+
+(/usr/lib/firefox/plugin-container:2926): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2926): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2926): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2926): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489563989374	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: chrome://marionette/content/listener.js, line 906: TypeError: can't access dead object
+[Child 2926] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=24.9293) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1489564040483	geckodriver	INFO	Listening on 127.0.0.1:52101
+1489564041489	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5r6UzXlmjX22
+1489564041491	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489564041494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37519
+
+(firefox:3017): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3017): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3017): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3017): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489564042325	Marionette	INFO	Listening on port 37519
+
+(/usr/lib/firefox/plugin-container:3084): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3084): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3084): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3084): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489564045379	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:3017): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3017): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489639243047	geckodriver	INFO	Listening on 127.0.0.1:43098
+1489639244050	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q4qfcxcYDU70
+1489639244052	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489639244056	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36225
+
+(firefox:4445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489639244911	Marionette	INFO	Listening on port 36225
+
+(/usr/lib/firefox/plugin-container:4512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489639247845	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: chrome://marionette/content/listener.js, line 906: TypeError: can't access dead object
+1489639684156	geckodriver	INFO	Listening on 127.0.0.1:44334
+1489639685162	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u0LLuHXRf8Kw
+1489639685164	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489639685168	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41798
+
+(firefox:4622): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4622): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4622): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4622): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489639685994	Marionette	INFO	Listening on port 41798
+
+(/usr/lib/firefox/plugin-container:4682): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4682): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4682): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4682): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489639688985	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:4622): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4622): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489645377622	geckodriver	INFO	Listening on 127.0.0.1:57406
+1489645378572	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Pm31f0N4JMJ8
+1489645378574	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489645378578	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41423
+
+(firefox:2906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489645381761	Marionette	INFO	Listening on port 41423
+
+(/usr/lib/firefox/plugin-container:2971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489645385756	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489730964804	geckodriver	INFO	Listening on 127.0.0.1:51977
+1489730965806	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jU6yjC96cysv
+1489730965808	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489730965812	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40349
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489730966646	Marionette	INFO	Listening on port 40349
+
+(/usr/lib/firefox/plugin-container:5390): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5390): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5390): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5390): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489730969867	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490850624481	geckodriver	INFO	Listening on 127.0.0.1:51686
+1490850625483	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.f9K0Bx4rojc9
+1490850625485	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1490850625490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35447
+
+(firefox:27971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490850626309	Marionette	INFO	Listening on port 35447
+
+(/usr/lib/firefox/plugin-container:28037): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28037): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490850628962	Marionette	WARN	Using deprecated data structure for setting timeouts
+1490850678383	geckodriver	INFO	Listening on 127.0.0.1:50744
+1490850679386	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BO8h9pgJcU38
+1490850679388	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1490850679393	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35255
+
+(firefox:28116): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28116): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28116): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28116): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490850680307	Marionette	INFO	Listening on port 35255
+
+(/usr/lib/firefox/plugin-container:28178): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28178): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28178): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28178): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490850683190	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5470&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Parent 2906] WARNING: pipe error: Broken pipe: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+
+(firefox:28116): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28116): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493549974976	geckodriver	INFO	Listening on 127.0.0.1:54517
+1493549975979	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QbH2c8t1WgrL
+1493549975981	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493549975984	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42025
+
+(firefox:8108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493549976848	Marionette	INFO	Listening on port 42025
+
+(/usr/lib/firefox/plugin-container:8174): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8174): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8174): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8174): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493549980203	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e9a14897b586ad3658dc0b6bcf8024ef7f16dec1614a050a78bb3bddbd7aae05.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e9a14897b586ad3658dc0b6bcf8024ef7f16dec1614a050a78bb3bddbd7aae05.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e9a14897b586ad3658dc0b6bcf8024ef7f16dec1614a050a78bb3bddbd7aae05.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default735&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493550365996	geckodriver	INFO	Listening on 127.0.0.1:49372
+1493550366999	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SKTxr5aHFd2k
+1493550367001	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493550367005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40920
+
+(firefox:8368): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8368): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8368): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8368): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493550367887	Marionette	INFO	Listening on port 40920
+
+(/usr/lib/firefox/plugin-container:8432): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8432): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8432): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8432): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493550371204	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 8432] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 8432] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493552112200	geckodriver	INFO	Listening on 127.0.0.1:52183
+1493552113203	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1ovy0CdhkC95
+1493552113205	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493552113208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38115
+
+(firefox:8727): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8727): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8727): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8727): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493552114087	Marionette	INFO	Listening on port 38115
+
+(/usr/lib/firefox/plugin-container:8793): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8793): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:8793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493552117402	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: chrome://marionette/content/listener.js, line 906: TypeError: can't access dead object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:8108): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8108): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493700618203	geckodriver	INFO	Listening on 127.0.0.1:45138
+1493700619209	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zq8GiqLk1GMl
+1493700619211	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493700619216	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44872
+
+(firefox:15657): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15657): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15657): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15657): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493700620091	Marionette	INFO	Listening on port 44872
+
+(/usr/lib/firefox/plugin-container:15721): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15721): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15721): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15721): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493700623231	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4660&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493700700374	geckodriver	INFO	Listening on 127.0.0.1:38879
+1493700701376	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FS6aoWc3BjjN
+1493700701378	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493700701383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45759
+
+(firefox:15807): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15807): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15807): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15807): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493700702212	Marionette	INFO	Listening on port 45759
+
+(/usr/lib/firefox/plugin-container:15872): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15872): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15872): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15872): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493700705185	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default727&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493701534548	geckodriver	INFO	Listening on 127.0.0.1:46253
+1493701535550	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mtiNDasoy7sH
+1493701535552	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493701535557	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37596
+
+(firefox:16069): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16069): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16069): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16069): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701536401	Marionette	INFO	Listening on port 37596
+
+(/usr/lib/firefox/plugin-container:16140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701539508	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1721&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493701700572	geckodriver	INFO	Listening on 127.0.0.1:37140
+1493701701579	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wjUmyy0P6cDH
+1493701701581	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493701701585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32955
+
+(firefox:16234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701702476	Marionette	INFO	Listening on port 32955
+
+(/usr/lib/firefox/plugin-container:16299): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16299): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16299): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16299): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701705547	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4324&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493701870782	geckodriver	INFO	Listening on 127.0.0.1:42308
+1493701871788	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tEVFyoLLyMCu
+1493701871790	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493701871793	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36523
+
+(firefox:16413): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16413): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16413): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16413): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701872666	Marionette	INFO	Listening on port 36523
+
+(/usr/lib/firefox/plugin-container:16478): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16478): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16478): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16478): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701875805	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9181&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16478] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GpUKtg/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=46.6934) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+(firefox:16234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16069): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16069): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701930964	geckodriver	INFO	Listening on 127.0.0.1:45683
+1493701931970	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NNWo5M2RGFhV
+1493701931972	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493701931977	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34746
+
+(firefox:16568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701932926	Marionette	INFO	Listening on port 34746
+
+(/usr/lib/firefox/plugin-container:16633): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16633): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16633): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16633): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493701936066	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default8134&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493703767791	geckodriver	INFO	Listening on 127.0.0.1:40513
+1493703768797	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Z78CBMQGegYR
+1493703768799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493703768803	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45476
+
+(firefox:16823): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16823): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16823): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16823): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493703769723	Marionette	INFO	Listening on port 45476
+
+(/usr/lib/firefox/plugin-container:16885): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16885): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16885): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16885): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493703773034	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7543&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493707880543	geckodriver	INFO	Listening on 127.0.0.1:48039
+1493707881548	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iiCXARI4KMQ7
+1493707881550	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493707881555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34103
+
+(firefox:17434): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17434): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17434): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17434): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493707882424	Marionette	INFO	Listening on port 34103
+
+(/usr/lib/firefox/plugin-container:17498): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17498): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17498): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17498): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493707885855	Marionette	WARN	Using deprecated data structure for setting timeouts
+1493708192516	geckodriver	INFO	Listening on 127.0.0.1:33218
+1493708193521	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1zbgF4YBTDUZ
+1493708193523	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493708193528	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44725
+
+(firefox:17638): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17638): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17638): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17638): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708194456	Marionette	INFO	Listening on port 44725
+
+(/usr/lib/firefox/plugin-container:17704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708197560	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:17638): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17638): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17434): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17434): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15657): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15657): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15807): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15807): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16823): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16823): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708312880	geckodriver	INFO	Listening on 127.0.0.1:47608
+1493708313883	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8hgw8JKN1Hsn
+1493708313885	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493708313889	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43788
+
+(firefox:17832): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17832): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17832): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17832): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708314845	Marionette	INFO	Listening on port 43788
+
+(/usr/lib/firefox/plugin-container:17898): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17898): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17898): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17898): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708318015	Marionette	WARN	Using deprecated data structure for setting timeouts
+1493708713400	geckodriver	INFO	Listening on 127.0.0.1:33774
+1493708714402	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yaJEajUjiklH
+1493708714404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493708714408	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36073
+
+(firefox:18029): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18029): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708715298	Marionette	INFO	Listening on port 36073
+
+(/usr/lib/firefox/plugin-container:18098): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18098): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18098): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18098): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708718487	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493708841126	geckodriver	INFO	Listening on 127.0.0.1:36190
+1493708842129	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WdItEFCq1L7w
+1493708842131	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493708842136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32771
+
+(firefox:18205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708843040	Marionette	INFO	Listening on port 32771
+
+(/usr/lib/firefox/plugin-container:18268): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18268): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18268): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18268): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708846347	Marionette	WARN	Using deprecated data structure for setting timeouts
+1493708955560	geckodriver	INFO	Listening on 127.0.0.1:36777
+1493708956562	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7dxbE3gcoTUQ
+1493708956564	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493708956569	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42700
+
+(firefox:18358): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18358): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18358): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18358): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708957467	Marionette	INFO	Listening on port 42700
+
+(/usr/lib/firefox/plugin-container:18424): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18424): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18424): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18424): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493708960668	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6787&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493709434632	geckodriver	INFO	Listening on 127.0.0.1:43854
+1493709435639	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dZTo1eRSnkr7
+1493709435641	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493709435645	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41639
+
+(firefox:18551): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18551): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18551): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18551): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493709436647	Marionette	INFO	Listening on port 41639
+
+(/usr/lib/firefox/plugin-container:18615): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18615): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18615): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18615): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493709439901	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-e5778a0698f05dd235375fd032d96dc36df98b236519057a26f2535b88005cbf.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default879&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:18551): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18551): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18358): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18358): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18029): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17832): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17832): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed

@@ -1,0 +1,2283 @@
+1488628641999	geckodriver	INFO	Listening on 127.0.0.1:60288
+1488628643002	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vgG01OHJTmtI
+1488628643004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488628643008	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37247
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488628643870	Marionette	INFO	Listening on port 37247
+
+(/usr/lib/firefox/plugin-container:19273): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19273): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19273): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19273): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:19211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1488628802243	geckodriver	INFO	Listening on 127.0.0.1:36327
+1488628803245	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6NeXWJ3mJgsg
+1488628803248	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488628803251	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40502
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488628804036	Marionette	INFO	Listening on port 40502
+
+(/usr/lib/firefox/plugin-container:19399): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19399): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19399): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19399): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:19337): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488787961127	geckodriver	INFO	Listening on 127.0.0.1:54856
+1488787962130	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tP9jw3CwpLk4
+1488787962132	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488787962136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32908
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488787962935	Marionette	INFO	Listening on port 32908
+
+(/usr/lib/firefox/plugin-container:23924): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23924): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23924): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23924): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1488788088379	geckodriver	INFO	Listening on 127.0.0.1:59022
+1488788089382	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GW9gJ9JjulOS
+1488788089384	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488788089387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41883
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488788090200	Marionette	INFO	Listening on port 41883
+
+(/usr/lib/firefox/plugin-container:24117): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24117): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24117): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24117): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24055): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1488788158140	geckodriver	INFO	Listening on 127.0.0.1:37488
+1488788159142	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jkrbzdK0LCaa
+1488788159144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488788159146	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46834
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488788159930	Marionette	INFO	Listening on port 46834
+
+(/usr/lib/firefox/plugin-container:24262): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24262): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24262): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24262): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24201): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488795311981	geckodriver	INFO	Listening on 127.0.0.1:53597
+1488795312984	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dzCTjTp1rYjN
+1488795312986	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488795312991	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37086
+
+(firefox:24857): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24857): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24857): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24857): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488795313740	Marionette	INFO	Listening on port 37086
+
+(/usr/lib/firefox/plugin-container:24917): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24917): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24917): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24917): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24857): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7ff42d184740' of type 'MaiAtkType139'
+1488795495512	geckodriver	INFO	Listening on 127.0.0.1:33772
+1488795496515	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IywgWkfBAfJe
+1488795496517	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488795496521	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40135
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488795497341	Marionette	INFO	Listening on port 40135
+
+(/usr/lib/firefox/plugin-container:25077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1488796055240	geckodriver	INFO	Listening on 127.0.0.1:47734
+1488796056242	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zKfDIyMgBrLc
+1488796056244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488796056248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33223
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488796057022	Marionette	INFO	Listening on port 33223
+
+(/usr/lib/firefox/plugin-container:25452): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25452): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25388): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1488796106253	geckodriver	INFO	Listening on 127.0.0.1:40912
+1488796107254	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eWz8LsJNigKI
+1488796107257	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488796107263	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44919
+
+(firefox:25534): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25534): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25534): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25534): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488796108081	Marionette	INFO	Listening on port 44919
+
+(/usr/lib/firefox/plugin-container:25600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25534): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25534): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25534): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1488796521490	geckodriver	INFO	Listening on 127.0.0.1:41341
+1488796522493	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BcZl7kbQMVAU
+1488796522495	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488796522496	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33699
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488796523329	Marionette	INFO	Listening on port 33699
+
+(/usr/lib/firefox/plugin-container:25762): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25762): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25762): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25762): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25700): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488797245419	geckodriver	INFO	Listening on 127.0.0.1:58663
+1488797246421	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7WSdut4uJA9Z
+1488797246423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488797246425	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34272
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488797247184	Marionette	INFO	Listening on port 34272
+
+(/usr/lib/firefox/plugin-container:25999): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25999): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25999): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25999): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25939): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488800206399	geckodriver	INFO	Listening on 127.0.0.1:55454
+1488800207402	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QzNiqrRlYZEt
+1488800207403	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488800207405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42543
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488800208270	Marionette	INFO	Listening on port 42543
+
+(/usr/lib/firefox/plugin-container:26219): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26219): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26219): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26219): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26160): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1488800299043	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1488800469003	geckodriver	INFO	Listening on 127.0.0.1:33968
+1488800470006	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.87nwyjguUprw
+1488800470008	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488800470011	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43337
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488800470823	Marionette	INFO	Listening on port 43337
+
+(/usr/lib/firefox/plugin-container:26434): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26434): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26434): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26434): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26367): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488801473966	geckodriver	INFO	Listening on 127.0.0.1:55432
+1488801474969	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2wL0fS8WZkcY
+1488801474971	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488801474975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38771
+
+(firefox:26742): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26742): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26742): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:26742): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488801475853	Marionette	INFO	Listening on port 38771
+
+(/usr/lib/firefox/plugin-container:26804): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26804): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26804): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26804): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26742): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26742): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26742): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 26804] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 26804] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 26804] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488803283266	geckodriver	INFO	Listening on 127.0.0.1:44492
+1488803284269	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.50yygV7DfbvL
+1488803284271	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488803284276	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44413
+
+(firefox:27531): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27531): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27531): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27531): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488803285070	Marionette	INFO	Listening on port 44413
+
+(/usr/lib/firefox/plugin-container:27592): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27592): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27531): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27531): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27531): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 27592] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27592] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488804282054	geckodriver	INFO	Listening on 127.0.0.1:43794
+1488804283057	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Y7olEzgbTdPb
+1488804283059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488804283062	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44926
+
+(firefox:27743): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27743): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27743): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27743): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488804283846	Marionette	INFO	Listening on port 44926
+
+(/usr/lib/firefox/plugin-container:27804): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27804): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27804): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27804): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 27804] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27804] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488804579306	geckodriver	INFO	Listening on 127.0.0.1:32816
+1488804580309	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fgkkipYgFYhL
+1488804580310	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488804580314	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38413
+
+(firefox:27896): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27896): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27896): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27896): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488804581129	Marionette	INFO	Listening on port 38413
+
+(/usr/lib/firefox/plugin-container:27958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27896): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27896): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27896): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27896): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7fe5cc375420' of type 'MaiAtkType139'
+
+(firefox:27896): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7fe5cc375a60' of type 'MaiAtkType139'
+[Child 27958] WARNING: pipe error: Broken pipe: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 27958] WARNING: pipe error: Broken pipe: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 27958] WARNING: pipe error: Broken pipe: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 27958] WARNING: pipe error: Broken pipe: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 27958] WARNING: pipe error: Broken pipe: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 27958] WARNING: pipe error: Broken pipe: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 27958] WARNING: pipe error: Broken pipe: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 27958] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 27958] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27958] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488804663818	geckodriver	INFO	Listening on 127.0.0.1:58024
+1488804664820	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iMYO3caFB45w
+1488804664821	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488804664824	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34178
+
+(firefox:28036): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28036): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28036): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28036): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488804665658	Marionette	INFO	Listening on port 34178
+
+(/usr/lib/firefox/plugin-container:28095): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28095): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28095): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28095): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28036): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28036): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28036): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28036): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7fe32bc7a380' of type 'MaiAtkType139'
+
+(firefox:28036): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7fe32bc7a4c0' of type 'MaiAtkType139'
+[Child 28095] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 28095] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28095] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488804781067	geckodriver	INFO	Listening on 127.0.0.1:35975
+1488804782070	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ldsY1vk3dPLk
+1488804782072	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488804782076	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44327
+
+(firefox:28218): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28218): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28218): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28218): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488804782843	Marionette	INFO	Listening on port 44327
+
+(/usr/lib/firefox/plugin-container:28283): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28283): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28283): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28283): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 28283] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28283] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488860578522	geckodriver	INFO	Listening on 127.0.0.1:39723
+1488860579524	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FFdr7YpYxFVW
+1488860579526	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488860579529	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41507
+
+(firefox:29845): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29845): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29845): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29845): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488860580297	Marionette	INFO	Listening on port 41507
+
+(/usr/lib/firefox/plugin-container:29904): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29904): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29904): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29904): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29845): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29845): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29845): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 29904] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 29904] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 29904] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488865254864	geckodriver	INFO	Listening on 127.0.0.1:53219
+1488865255866	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1vCEXAeGyibx
+1488865255868	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488865255872	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36772
+
+(firefox:31819): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31819): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31819): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31819): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488865256663	Marionette	INFO	Listening on port 36772
+
+(/usr/lib/firefox/plugin-container:31884): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:31884): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:31884): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:31884): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488865402439	geckodriver	INFO	Listening on 127.0.0.1:58682
+1488865403441	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jjR5vtqfTMw2
+1488865403442	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488865403446	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35398
+
+(firefox:31970): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31970): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31970): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31970): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488865404204	Marionette	INFO	Listening on port 35398
+
+(/usr/lib/firefox/plugin-container:32031): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32031): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32031): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32031): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 32031] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 32031] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 32031] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488865615076	geckodriver	INFO	Listening on 127.0.0.1:50330
+1488865616078	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mHQsG921hdna
+1488865616080	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488865616084	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45270
+
+(firefox:32150): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32150): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488865616849	Marionette	INFO	Listening on port 45270
+
+(/usr/lib/firefox/plugin-container:32212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 32212] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 32212] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488865690592	geckodriver	INFO	Listening on 127.0.0.1:45820
+1488865691593	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sswxRmlY1hED
+1488865691595	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488865691598	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33224
+
+(firefox:32296): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32296): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32296): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32296): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488865692424	Marionette	INFO	Listening on port 33224
+
+(/usr/lib/firefox/plugin-container:32357): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32357): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32357): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32357): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32296): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32296): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32296): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 32357] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 32357] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 32357] ###!!! ABORT: Aborting on channel error.: file /build/firefox-motZyY/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488865768877	geckodriver	INFO	Listening on 127.0.0.1:34046
+1488865769878	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.epFN22r1TwXZ
+1488865769880	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488865769883	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45346
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488865770696	Marionette	INFO	Listening on port 45346
+
+(/usr/lib/firefox/plugin-container:32491): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32491): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32491): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32491): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc521f0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdae8b00' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdae8b00' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc9d290' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbc545970' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cbdc38dd0' of type 'MaiAtkType139'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+
+(firefox:32429): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f7cc3a56dd0' of type 'MaiAtkType13b'
+1488961143426	geckodriver	INFO	Listening on 127.0.0.1:57365
+1488961144428	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.72wTzGjtygFa
+1488961144430	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488961144435	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34977
+
+(firefox:20988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488961145254	Marionette	INFO	Listening on port 34977
+
+(/usr/lib/firefox/plugin-container:21056): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21056): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21056): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21056): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488961148249	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488969610782	geckodriver	INFO	Listening on 127.0.0.1:40514
+1488969611785	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wj4jwh6vlL1i
+1488969611786	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488969611788	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45910
+
+(firefox:21496): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21496): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21496): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21496): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969612622	Marionette	INFO	Listening on port 45910
+
+(/usr/lib/firefox/plugin-container:21565): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21565): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21565): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21565): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969615394	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488969749536	geckodriver	INFO	Listening on 127.0.0.1:59453
+1488969750538	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HnWZe8P7JxwC
+1488969750540	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488969750542	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34358
+
+(firefox:21692): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21692): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21692): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21692): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969751372	Marionette	INFO	Listening on port 34358
+
+(/usr/lib/firefox/plugin-container:21759): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21759): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969754354	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488969771623	Marionette	INFO	New connections will no longer be accepted
+[Child 21759] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-o1GDX3/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 21759] ###!!! ABORT: Aborting on channel error.: file /build/firefox-o1GDX3/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 21759] ###!!! ABORT: Aborting on channel error.: file /build/firefox-o1GDX3/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+1488969847278	geckodriver	INFO	Listening on 127.0.0.1:58790
+1488969848281	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HS4XhgA7pNXW
+1488969848283	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488969848287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34957
+
+(firefox:21814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969849179	Marionette	INFO	Listening on port 34957
+
+(/usr/lib/firefox/plugin-container:21877): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21877): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21877): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21877): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969852246	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488969872039	Marionette	INFO	New connections will no longer be accepted
+[Child 21877] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-o1GDX3/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 21877] ###!!! ABORT: Aborting on channel error.: file /build/firefox-o1GDX3/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 21877] ###!!! ABORT: Aborting on channel error.: file /build/firefox-o1GDX3/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+1488969994542	geckodriver	INFO	Listening on 127.0.0.1:36812
+1488969995544	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zFseeeDsKsy8
+1488969995546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488969995551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33884
+
+(firefox:21977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969996390	Marionette	INFO	Listening on port 33884
+
+(/usr/lib/firefox/plugin-container:22044): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22044): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22044): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22044): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488969999262	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:20988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21496): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21496): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489064776567	geckodriver	INFO	Listening on 127.0.0.1:48236
+1489064777569	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OZMDBvPQ3s1E
+1489064777571	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489064777573	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33202
+
+(firefox:28283): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28283): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28283): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28283): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489064778375	Marionette	INFO	Listening on port 33202
+
+(/usr/lib/firefox/plugin-container:28347): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28347): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28347): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28347): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489064781533	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7952&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:28283): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28283): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489065433262	geckodriver	INFO	Listening on 127.0.0.1:48857
+1489065434264	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vh92fj6D5xRc
+1489065434266	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489065434269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46727
+
+(firefox:28672): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28672): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28672): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28672): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489065435101	Marionette	INFO	Listening on port 46727
+
+(/usr/lib/firefox/plugin-container:28735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489065438222	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4674&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:28672): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28672): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489066111032	geckodriver	INFO	Listening on 127.0.0.1:51117
+1489066112033	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.P6v0D7Qc2Ng6
+1489066112035	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489066112037	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45690
+
+(firefox:29234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489066112866	Marionette	INFO	Listening on port 45690
+
+(/usr/lib/firefox/plugin-container:29297): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29297): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29297): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29297): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489066116018	Marionette	WARN	Using deprecated data structure for setting timeouts
+1489066303524	geckodriver	INFO	Listening on 127.0.0.1:48107
+1489066304526	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HYrNtDqei45m
+1489066304528	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489066304530	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40241
+
+(firefox:29424): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29424): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29424): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29424): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489066305366	Marionette	INFO	Listening on port 40241
+
+(/usr/lib/firefox/plugin-container:29487): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29487): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29487): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29487): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489066308456	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9101&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:29424): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29424): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489129726934	geckodriver	INFO	Listening on 127.0.0.1:52403
+1489130790737	geckodriver	INFO	Listening on 127.0.0.1:33072
+1489130791737	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WRSw4PMlH8ft
+1489130791738	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489130791742	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34827
+1489130806807	geckodriver	INFO	Listening on 127.0.0.1:58814
+1489130807809	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gjOJurWG4xor
+1489130807812	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489130807816	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46220
+1489131231655	geckodriver	INFO	Listening on 127.0.0.1:38486
+1489131232657	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dMzE2tppxjuZ
+1489131232659	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489131232663	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35950
+1489132199809	geckodriver	INFO	Listening on 127.0.0.1:55500
+1489132200761	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tOD9DYwXnsIB
+1489132200763	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489132200768	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36970
+1489132243856	geckodriver	INFO	Listening on 127.0.0.1:51785
+1489132244857	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1bxCkewuXf9X
+1489132244859	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489132244864	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44875
+1489136714810	geckodriver	INFO	Listening on 127.0.0.1:44525
+1489136715763	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jW6ev8UroBlU
+1489136715765	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489136715768	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38169
+
+(firefox:3669): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3669): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3669): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3669): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489136716560	Marionette	INFO	Listening on port 38169
+
+(/usr/lib/firefox/plugin-container:3738): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3738): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3738): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3738): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489136719299	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:3669): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3669): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489141252155	geckodriver	INFO	Listening on 127.0.0.1:53932
+1489141253153	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ueLcmQyISQWN
+1489141253154	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489141253155	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39755
+
+(firefox:5357): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5357): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5357): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5357): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489141253975	Marionette	INFO	Listening on port 39755
+
+(/usr/lib/firefox/plugin-container:5429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489141257104	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9453&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:5357): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5357): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489142362692	geckodriver	INFO	Listening on 127.0.0.1:53301
+1489142363692	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pbx4YB4bXMdo
+1489142363693	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489142363695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46842
+
+(firefox:6031): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6031): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6031): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6031): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489142364932	Marionette	INFO	Listening on port 46842
+
+(/usr/lib/firefox/plugin-container:6099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489142367995	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3550&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489143517890	geckodriver	INFO	Listening on 127.0.0.1:60503
+1489143518892	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KAWtHxYCHB9d
+1489143518894	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489143518902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39676
+
+(firefox:6502): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6502): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6502): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6502): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489143519745	Marionette	INFO	Listening on port 39676
+
+(/usr/lib/firefox/plugin-container:6566): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6566): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6566): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6566): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489143522760	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3767&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:6502): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6502): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6031): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6031): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489143880722	geckodriver	INFO	Listening on 127.0.0.1:44527
+1489143881722	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WrmZuahySYcG
+1489143881722	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489143881724	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46441
+
+(firefox:6713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489143882505	Marionette	INFO	Listening on port 46441
+
+(/usr/lib/firefox/plugin-container:6779): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6779): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6779): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6779): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489143885433	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=36.5619) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1489146334160	geckodriver	INFO	Listening on 127.0.0.1:37154
+1489146335163	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0eh1jCKbGGOd
+1489146335166	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489146335170	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39947
+
+(firefox:7140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489146335969	Marionette	INFO	Listening on port 39947
+
+(/usr/lib/firefox/plugin-container:7205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489146339048	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-3ebbe115bf19b4a69de465a4d755c524fff2a143b696d5cc63e86653e631cccd.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9041&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:7140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489478263029	geckodriver	INFO	Listening on 127.0.0.1:51184
+1489478264032	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eguKY1rR8EqJ
+1489478264034	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489478264037	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40326
+
+(firefox:14391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489478264856	Marionette	INFO	Listening on port 40326
+
+(/usr/lib/firefox/plugin-container:14457): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14457): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14457): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14457): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489478268005	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:14391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485467938	geckodriver	INFO	Listening on 127.0.0.1:49798
+1489485468940	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wE3Gj9ndYXJa
+1489485468942	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489485468947	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35238
+
+(firefox:16051): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16051): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16051): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16051): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485469805	Marionette	INFO	Listening on port 35238
+
+(/usr/lib/firefox/plugin-container:16117): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16117): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16117): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16117): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1489485472954	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default29&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:16051): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16051): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
