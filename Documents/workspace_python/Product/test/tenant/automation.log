@@ -1,0 +1,62 @@
+09/04/2019 05:12:07 AM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+09/04/2019 05:12:07 AM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+09/04/2019 05:12:07 AM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+09/04/2019 05:12:07 AM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+09/04/2019 05:12:07 AM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+09/04/2019 05:12:10 AM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+09/04/2019 05:12:15 AM- LoginPage- INFO: Element not found with locator: UserName and  locatorType: id:
+09/04/2019 05:12:15 AM- LoginPage- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+09/04/2019 05:12:20 AM- LoginPage- INFO: Element not found with locator: Password and  locatorType: id:
+09/04/2019 05:12:20 AM- LoginPage- INFO: Cannot send data on the element with locator: Password locatorType: id:
+09/04/2019 05:12:25 AM- LoginPage- INFO: Element not found with locator: Login and  locatorType: id:
+09/04/2019 05:12:25 AM- LoginPage- INFO: Cannot click on the element with locator: Login locatorType: id:
+09/04/2019 05:12:30 AM- LoginPage- INFO: Element not found with locator: //div[contains(text(),'Invalid User Name Or Password.')] and  locatorType: xpath:
+09/04/2019 05:12:30 AM- LoginPage- INFO: Element not present with locator: //div[contains(text(),'Invalid User Name Or Password.')] locatorType: xpath:
+09/04/2019 05:12:36 AM- LoginPage- INFO: Element not found with locator: UserName and  locatorType: id:
+09/04/2019 05:12:36 AM- LoginPage- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+09/04/2019 05:12:41 AM- LoginPage- INFO: Element not found with locator: Password and  locatorType: id:
+09/04/2019 05:12:41 AM- LoginPage- INFO: Cannot send data on the element with locator: Password locatorType: id:
+09/04/2019 05:12:46 AM- LoginPage- INFO: Element not found with locator: Login and  locatorType: id:
+09/04/2019 05:12:46 AM- LoginPage- INFO: Cannot click on the element with locator: Login locatorType: id:
+09/04/2019 05:12:46 AM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+09/04/2019 05:12:46 AM- Util- INFO: Expected Text From Application Web UI --> :: IvyCPG - Login:
+09/04/2019 05:12:46 AM- Util- INFO: ### VERIFICATION DOES NOT CONTAINS !!!:
+09/04/2019 05:12:46 AM- TestStatus- INFO: ### VERIFICATION FAILED:: + Title verified:
+09/04/2019 05:12:46 AM- TestStatus- INFO: ScreenShot save to directory: /home/thileepan/Documents/workspace_python/Product/base/../screenshots/Title verified.1554801166356.png:
+09/04/2019 05:12:46 AM- LoginPage- INFO: Element found with locator: notifyAlert and  locatorType: id:
+09/04/2019 05:12:46 AM- LoginPage- INFO: Element present with locator: notifyAlert locatorType: id:
+09/04/2019 05:12:46 AM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL:: + Login was successful:
+09/04/2019 08:04:05 AM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+09/04/2019 08:04:05 AM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+09/04/2019 08:04:05 AM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+09/04/2019 08:04:05 AM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+09/04/2019 08:04:05 AM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+09/04/2019 08:04:08 AM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+09/04/2019 08:04:13 AM- LoginPage- INFO: Element not found with locator: UserName and  locatorType: id:
+09/04/2019 08:04:13 AM- LoginPage- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+09/04/2019 08:04:18 AM- LoginPage- INFO: Element not found with locator: Password and  locatorType: id:
+09/04/2019 08:04:18 AM- LoginPage- INFO: Cannot send data on the element with locator: Password locatorType: id:
+09/04/2019 08:04:23 AM- LoginPage- INFO: Element not found with locator: Login and  locatorType: id:
+09/04/2019 08:04:23 AM- LoginPage- INFO: Cannot click on the element with locator: Login locatorType: id:
+09/04/2019 08:04:29 AM- LoginPage- INFO: Element not found with locator: //div[contains(text(),'Invalid User Name Or Password.')] and  locatorType: xpath:
+09/04/2019 08:04:29 AM- LoginPage- INFO: Element not present with locator: //div[contains(text(),'Invalid User Name Or Password.')] locatorType: xpath:
+11/04/2019 03:15:01 AM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+11/04/2019 03:15:01 AM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+11/04/2019 03:15:01 AM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+11/04/2019 03:15:01 AM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+11/04/2019 03:15:01 AM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+11/04/2019 03:15:03 AM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+11/04/2019 03:15:03 AM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+11/04/2019 03:15:03 AM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+11/04/2019 03:15:03 AM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+11/04/2019 03:15:04 AM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+11/04/2019 03:15:04 AM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+11/04/2019 03:15:05 AM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+11/04/2019 03:15:05 AM- Util- INFO: Actual Text From Application Web UI --> :: IvyCPG - Login:
+11/04/2019 03:15:05 AM- Util- INFO: Expected Text From Application Web UI --> :: IvyCPG - Login:
+11/04/2019 03:15:05 AM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+11/04/2019 03:15:05 AM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL:: + Title verified:
+11/04/2019 03:15:10 AM- LoginPage- INFO: Element not found with locator: notifyAlert and  locatorType: id:
+11/04/2019 03:15:10 AM- LoginPage- INFO: Element not present with locator: notifyAlert locatorType: id:
+11/04/2019 03:15:10 AM- TestStatus- INFO: ### VERIFICATION FAILED:: + Login was successful:
+11/04/2019 03:15:10 AM- TestStatus- INFO: ScreenShot save to directory: /home/thileepan/Documents/workspace_python/Product/base/../screenshots/Login was successful.1554966910597.png:

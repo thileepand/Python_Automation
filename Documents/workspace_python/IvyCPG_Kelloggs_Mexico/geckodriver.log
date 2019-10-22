@@ -1,0 +1,159 @@
+1490338946489	geckodriver	INFO	Listening on 127.0.0.1:53772
+1490338947490	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nNQXyUFJ8bP2
+1490338947491	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1490338947492	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37281
+
+(firefox:22310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490338948294	Marionette	INFO	Listening on port 37281
+
+(/usr/lib/firefox/plugin-container:22375): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22375): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22375): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22375): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490338951547	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://kelloggs-latam-qa.ivycpg.com/web/Scripts/codebase/dhtmlxgrid_hextra.js, line 4: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490345650389	geckodriver	INFO	Listening on 127.0.0.1:60631
+1490345651389	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.11hJLXURMUPg
+1490345651390	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1490345651394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33647
+
+(firefox:22928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490345652208	Marionette	INFO	Listening on port 33647
+
+(/usr/lib/firefox/plugin-container:22990): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22990): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22990): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22990): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490345655485	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://kelloggs-latam-qa.ivycpg.com/web/Scripts/codebase/dhtmlxgrid_hextra.js, line 4: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490850027405	geckodriver	INFO	Listening on 127.0.0.1:47569
+1490850028405	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4Mlnbceq0vfB
+1490850028406	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1490850028408	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36975
+
+(firefox:27562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490850029227	Marionette	INFO	Listening on port 36975
+
+(/usr/lib/firefox/plugin-container:27625): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27625): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27625): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:27625): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1490850031846	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://kelloggs-latam-qa.ivycpg.com/web/Scripts/codebase/dhtmlxgrid_hextra.js, line 4: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:22310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
